@@ -4,7 +4,7 @@
 
 ## Introduction
 
-[![Latest Stable Version](https://poser.pugx.org/naspers/behat-bootstrap-file-loader/v/stable)](https://packagist.org/packages/naspers/behat-bootstrap-file-loader) [![Total Downloads](https://poser.pugx.org/naspers/behat-bootstrap-file-loader/downloads)](https://packagist.org/packages/naspers/behat-bootstrap-file-loader) [![Latest Unstable Version](https://poser.pugx.org/naspers/behat-bootstrap-file-loader/v/unstable)](https://packagist.org/packages/naspers/behat-bootstrap-file-loader) [![License](https://poser.pugx.org/naspers/behat-bootstrap-file-loader/license)](https://packagist.org/packages/naspers/behat-bootstrap-file-loader)
+[![Latest Stable Version](https://poser.pugx.org/pproenca/behat-bootstrap-file-loader/v/stable)](https://packagist.org/packages/pproenca/behat-bootstrap-file-loader) [![Total Downloads](https://poser.pugx.org/pproenca/behat-bootstrap-file-loader/downloads)](https://packagist.org/packages/pproenca/behat-bootstrap-file-loader) [![Latest Unstable Version](https://poser.pugx.org/pproenca/behat-bootstrap-file-loader/v/unstable)](https://packagist.org/packages/pproenca/behat-bootstrap-file-loader) [![License](https://poser.pugx.org/pproenca/behat-bootstrap-file-loader/license)](https://packagist.org/packages/pproenca/behat-bootstrap-file-loader)
 
 Introduces a new configuration option, in Behat, to include a custom bootstrap file.
 
