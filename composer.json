@@ -1,0 +1,24 @@
+{
+    "name": "pproenca/behat-bootstrap-file-loader",
+    "type": "library",
+    "description": "Introduces a new configuration option to include a custom bootstrap file.",
+    "keywords": ["behat", "bdd", "bootstrap", "file"],
+    "homepage": "https://github.com/pproenca/behat-bootstrap-file-loader",
+    "license": "MIT",
+    "authors": [
+        {
+            "name":  "Pedro Proenca",
+            "email": "pedro.proenca@olx.com",
+            "role":  "developer"
+        }
+    ],
+    "require": {
+        "php":          ">=5.3.2",
+        "behat/behat":  "~3.0,>=3.0.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pproenca\\Behat\\": ["src/"]
+        }
+    }
+}
